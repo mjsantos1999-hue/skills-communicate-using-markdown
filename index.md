@@ -15,3 +15,7 @@ var myVar = "Hello World!";
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+
+- [] Turn on GitHub Pages
+- [] Outilne my portfolio
+- [] Introduce myself to the world
